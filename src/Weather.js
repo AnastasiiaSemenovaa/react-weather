@@ -58,7 +58,7 @@ export default function Weather() {
       </section>
       <div className="weather-forecast"></div>
       <a
-        href="https://github.com/AnastasiiaSemenovaa/my-weather-app"
+        href="https://github.com/AnastasiiaSemenovaa/react-weather"
         className="linkStyle"
         target="blank"
       >

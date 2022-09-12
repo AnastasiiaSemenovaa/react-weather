@@ -51,7 +51,11 @@ export default function Weather() {
               <li>Wind:{weatherData.wind} km/h</li>
             </div>
             <div className="col-4">
-              <img src={weatherData.weatherUrl} width="200" />
+              <img
+                src={weatherData.weatherUrl}
+                width="200"
+                alt="weather in the city"
+              />
             </div>
           </div>
         </ul>
